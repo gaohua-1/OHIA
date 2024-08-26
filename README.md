@@ -7,7 +7,7 @@ In this paper, we study the task of generating temporal action proposals. This t
 
 Activity RESULT
 -
-|Models|Feature|	AR@100	|AUC(val)|
+|Models| Feature|	AR@100	|AUC(val)|
 | --- | --- | --- | --- |
 |OURS|	C3D	|77.93%	|69.92%|
 
@@ -16,3 +16,7 @@ Thumos14 RESULT
 |Models|	Feature|	AR@50	|AR@100	|AR@200|
 | --- | --- | --- | --- | --- |
 |OURS|	C3D|	44.77%|	52.63%|	58.71%|
+
+CODE
+-
+code is coming soon
